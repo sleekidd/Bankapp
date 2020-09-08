@@ -1,5 +1,3 @@
-deposit, credit, 20000, Tobi, Tobi, no comment
-deposit, credit, 20000, Tobi, Tobi, no comment
-withdrawal, dedit, 10000, Tobi, Tobi, no comment
-transfer, dedit, 2000, Tobi, Ayo, Testing
-transfer, credit, 2000, Ayo, Tobi, Testing
+deposit, credit, 30000, tobi, tobi, no comment
+deposit, credit, 30000, tobi, tobi, no comment
+deposit, credit, 30000, allen, allen, no comment
